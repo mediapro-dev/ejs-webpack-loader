@@ -23,19 +23,8 @@ module.exports = function (source) {
 
   const options = {
     minify: false,
-    views: null,
     ...(this.query || {}),
   };
-
-  // views options is required!
-
-  if (!options.views) {
-    // throw new Error(`views folder is not defined`);
-  } else {
-    eta.configure({
-      views: options.views,
-    });
-  }
 
   // minify html
 
