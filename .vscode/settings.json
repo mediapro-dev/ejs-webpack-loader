@@ -1,0 +1,16 @@
+{
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.formatOnSave": false,
+    "javascript.validate.enable": false,
+    "javascript.format.enable": false,
+    "css.validate": false,
+    "scss.validate": false,
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "files.exclude": {
+      "**/node_modules": true
+    }
+  }
+  

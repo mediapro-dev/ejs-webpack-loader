@@ -1,0 +1,23 @@
+{
+  "name": "ejs-webpack-loader",
+  "version": "1.0.0",
+  "description": "EJS loader for [webpack](http://webpack.github.io/).",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediapro-dev/ejs-webpack-loader.git"
+  },
+  "author": "Juan Carlos Viñas <juancarlos.vinas@start.cat>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mediapro-dev/ejs-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/mediapro-dev/ejs-webpack-loader#readme",
+  "devDependencies": {
+    "eta": "1.12.1"
+  },
+  "dependencies": {
+    "ejs": "3.1.5"
+  }
+}
